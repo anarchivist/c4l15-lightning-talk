@@ -1,5 +1,5 @@
 body {
-  font-family: 'Helvetica';
+  font-family: 'Signika Negative', 'Helvetica', sans-serif;
   letter-spacing:-5px;
   background:#000;
   background-size:100%;
@@ -14,7 +14,7 @@ h1, h2, h3, p {
 }
 
 em {
-  font-family: 'Futura', 'Helvetica';
+  font-family: 'Signika Negative', 'Helvetica';
   font-style:normal;
   color:#418AD0
 }

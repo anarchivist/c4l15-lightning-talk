@@ -1,16 +1,32 @@
-use &harr; to navigate
+hi! how are you?
 
-Medium
+i _♥︎_ bread
 
-_Presentation software_ for lazy messy hackers
+i _make_ my own bread now
 
-text
+![](bread-1.jpg)
 
-from markdown
+![](bread-2.jpg)
 
-as _medium_ as it can be
+making bread helped me become a _better programmer_
 
-no config
+... or, did it make me a better _architect_?
+
+why?
+
+1) embrace your _fears_!
+
+i was _never good_ at baking
+
+or so i thought
+
+for me it was fear of getting things _wrong_
+
+2) _patterns_ are useful.
+
+there are _patterns for bread_
+
+[Artisan Bread in Five](http://www.artisanbreadinfive.com/)
 
 _1.5k_
 
