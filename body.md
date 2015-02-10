@@ -1,20 +1,28 @@
 hi! how are you?
 
+_bread_
+
+let's talk about it
+
 i _♥︎_ bread
 
 i _make_ my own bread now
 
 ![](bread-1.jpg)
 
-![](bread-2.jpg)
+_so_
 
 making bread helped me become a _better programmer_
 
-... or, did it make me a better _architect_?
+maybe it will help _you_
 
-why?
+why did it help?
 
-1) embrace your _fears_!
+5 reasons
+
+_one_
+
+embrace your _fears_!
 
 i was _never good_ at baking
 
@@ -22,30 +30,76 @@ or so i thought
 
 for me it was fear of getting things _wrong_
 
-2) _patterns_ are useful.
+when i fear something, i try to understand it
+
+_two_
+
+food x mixing + heat = baking
+
+learn _components_
+
+they fit _together_
+
+![](more-food.png)
+
+learn _why_ they make _patterns_
+
+_three_
+
+_patterns_ are useful.
 
 there are _patterns for bread_
 
+![](slash-patterns.png)
+
+_maybe?_
+
+![](bread-4.jpg)
+
+i'm not talking about that, tho
+
 [Artisan Bread in Five](http://www.artisanbreadinfive.com/)
 
-_1.5k_
+![](dough.jpg)
 
-plus like _50k_ more for Markdown conversion, CSS, and other stuff
+_four_
 
-![](http://farm9.staticflickr.com/8527/8680357801_712bc7e350_o.png) images too
+patterns alone ≠ _tasty_
 
-* also
-* lists
-* as well
+they need to be implemented in a _larger context_
 
-```javascript
-var code = true;
-```
+patterns _influence_ implementation
 
-based off [big by @tmcw](https://github.com/tmcw/big)
+_poolish_
 
-markdown by [marked](https://github.com/chjj/marked)
+![](https://farm4.staticflickr.com/3324/3549752226_d95620d680_z.jpg)
 
-Syntax highlighting by [Highlight.js](http://softwaremaniacs.org/soft/highlight/en/)
+_five_
 
-JS+CSS [github.com/ calvinmetcalf/ medium](https://github.com/calvinmetcalf/medium)
+learn _other styles_
+
+you might _not_ like them
+
+that's _OK_
+
+might not use them _every day_
+
+but sometimes you _put them together_
+
+and you get the _unexpected_
+
+![](bread-3.jpg)
+
+_buckwheat_
+
+_chocolate_
+
+_swirl_
+
+in sum
+
+learn from _surprising_ places
+
+(thanks)
+
+@anarchivist
