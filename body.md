@@ -100,6 +100,12 @@ in sum
 
 learn from _surprising_ places
 
+_next year_
+
+![](goat.jpg)
+
+_cheese?_
+
 (thanks)
 
 @anarchivist
